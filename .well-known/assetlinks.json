@@ -1,1 +1,9 @@
-aa
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bdx.bdxtest",
+    "sha256_cert_fingerprints":
+    ["27:F7:D4:EF:E7:DB:A4:4C:08:D6:E2:54:C8:17:F5:99:38:4A:75:3A:0A:22:B5:E5:4F:36:36:86:95:8B:C5:A2"]
+  }
+}]
